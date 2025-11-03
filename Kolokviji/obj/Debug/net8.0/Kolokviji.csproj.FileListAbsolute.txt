@@ -1,0 +1,14 @@
+D:\unclehesus\Kolokviji\Kolokviji\bin\Debug\net8.0\Kolokviji.exe
+D:\unclehesus\Kolokviji\Kolokviji\bin\Debug\net8.0\Kolokviji.deps.json
+D:\unclehesus\Kolokviji\Kolokviji\bin\Debug\net8.0\Kolokviji.runtimeconfig.json
+D:\unclehesus\Kolokviji\Kolokviji\bin\Debug\net8.0\Kolokviji.dll
+D:\unclehesus\Kolokviji\Kolokviji\bin\Debug\net8.0\Kolokviji.pdb
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.GeneratedMSBuildEditorConfig.editorconfig
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.AssemblyInfoInputs.cache
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.AssemblyInfo.cs
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.csproj.CoreCompileInputs.cache
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.dll
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\refint\Kolokviji.dll
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.pdb
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\Kolokviji.genruntimeconfig.cache
+D:\unclehesus\Kolokviji\Kolokviji\obj\Debug\net8.0\ref\Kolokviji.dll
